@@ -4,7 +4,7 @@ This is the implementation of YOLO V3 on <a href= "https://www.kaggle.com/aladdi
 
 - Download the dataset: 
 
-        $ Dataset: <a href="https://www.kaggle.com/aladdinpersson/pascal-voc-yolo-works-with-albumentations"> Here </a>
+        Dataset: <a href="https://www.kaggle.com/aladdinpersson/pascal-voc-yolo-works-with-albumentations"> Here </a>
 
 
 - Cloning the Repository: 
